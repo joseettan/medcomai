@@ -21,7 +21,7 @@ Location based ai powered online blood bank platform along with health managemen
     Output (Alarm on medicine taking time)
   
 5. Suggestions
-  Inputs(user checks)
+    Inputs(user checks)
 ```
 
 ## Tech Stack
