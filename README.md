@@ -1,4 +1,4 @@
-# medcomai
+# Medcomai
 Location based ai powered online blood bank platform along with health management. This is our **3rd year design project**, Fingers Crossed!
 
 ### Desccription
