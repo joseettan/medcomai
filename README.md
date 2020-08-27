@@ -16,7 +16,11 @@ Location based ai powered online blood bank platform along with health managemen
 3. Health Feeds
   Inputs(user checks)
   
-4. Suggestions
+4. Medicine timer
+    Input(medicine,time,repeat or not)
+    Output (Alarm on medicine taking time)
+  
+5. Suggestions
   Inputs(user checks)
 ```
 
