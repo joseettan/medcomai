@@ -8,10 +8,11 @@ Location based ai powered online blood bank platform along with health managemen
 
 1. Register Blood Donor
 
-⋅⋅⋅i. Donor(name, age, bloodgroup, location)
+⋅⋅⋅Donor(name, age, bloodgroup, location)
+
 2. Search for a blood group
 
-⋅⋅⋅i. Inputs(bloodgroup, location) 
+⋅⋅⋅Inputs(bloodgroup, location) 
 
 
 ## Tutorials 
