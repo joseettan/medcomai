@@ -20,6 +20,14 @@ Location based ai powered online blood bank platform along with health managemen
   Inputs(user checks)
 ```
 
+## Tech Stack
+### Backend
+  Node, Express, Mongo Db
+### Frontend
+  Flutter
+### Additional Frameworks Used
+  *will be mentioned later*
+
 ## Tutorials 
 #### Node JS
 [1. Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh](https://www.youtube.com/watch?v=TlB_eWDSMt4)
