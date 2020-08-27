@@ -7,7 +7,8 @@ Location based ai powered online blood bank platform along with health managemen
 ## Features
 
 1. Register Blood Donor
-
+⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅Donor(name, age, bloodgroup, location)
 
 2. Search for a blood group
