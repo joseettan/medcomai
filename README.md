@@ -7,11 +7,17 @@ Location based ai powered online blood bank platform along with health managemen
 ## Features
 ```
 1. Register Blood Donor
-⋅⋅⋅Donor(name, age, bloodgroup, location)
+  Donor(name, age, bloodgroup, location)
 
 2. Search for a blood group
-
-⋅⋅⋅Inputs(bloodgroup, location) 
+  Inputs(bloodgroup, location) 
+  Output(List of Potential Donors in the ascending order of distance from the user lcoation)
+  
+3. Health Feeds
+  Inputs(user checks)
+  
+4. Suggestions
+  Inputs(user checks)
 ```
 
 ## Tutorials 
