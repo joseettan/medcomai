@@ -26,7 +26,7 @@ Location based ai powered online blood bank platform along with health managemen
 
 ## Tech Stack
 ### Backend
-  Node, Express, MongoDbb
+  Node, Express, Mongo Db
 ### Frontend
   Flutter.dev
 ### Additional Frameworks Used
