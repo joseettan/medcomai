@@ -47,4 +47,7 @@ Location based ai powered online blood bank platform along with health managemen
 
 [2. Flutter Playlist Malayalam](https://www.youtube.com/watch?v=tCzyhf-f7zo)
 
+### Group 6
+Jose Francis, Remya Elizabeth Chacko, Robert K Samuel, Sijo M Thomas
+
 
