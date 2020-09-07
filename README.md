@@ -47,7 +47,7 @@ Location based ai powered online blood bank platform along with health managemen
 
 [2. Flutter Playlist Malayalam](https://www.youtube.com/watch?v=tCzyhf-f7zo)
 
-### Group 6, Medcomai
+## Group 6, Medcomai
 1. Jose Francis 
 2. Remya Elizabeth Chacko
 3. Robert K Samuel
