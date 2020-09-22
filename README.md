@@ -27,7 +27,9 @@ Location based ai powered online blood bank platform along with health managemen
 ![Medcomai UML Diagram](Medcomai.png)
 
 ## Class Diagram
-![Medcomai Class Diagram](medcomaiclassdiargram.jpg )
+![Medcomai Class Diagram](medcomaiclassdiargram.jpg) 
+## Activity Diagram
+![Medcomai Activity Diagram](activitydiagram.png) 
 ## Tech Stack
 ### Backend
   Node, Express, Mongo Db
