@@ -3,30 +3,6 @@ Location based ai powered online blood bank platform along with health managemen
 
 ## Desccription
 >Nowadays it is very hard to find a blood donor and specially if it is of some rare group. Keeping this as our problem statement we came up with an innovative way to solve this problem. All those who are willing to donate there blood can signup on our platform and there details along with the location will be taken as input and when somebody is in need of blood they can search with their location and blood group to get the list of donors.Add feedback box after donation of blood.
-Add this code in backend.
-// Database API key can be found in Settings tab in Database
-var databaseId = "your_database_id";
-var username = request.get("username");
-var password = request.get("password");
-var email = request.get("email");
-var country = request.get("country");
- 
-// create user
-var userLoginInfo = DatabaseUser.signUp(databaseId, {
-  "username": username,
-  "password": password
-});
- 
-// create UserProfile
-var userProfileInfo = Collection.createObject(databaseId, "UserProfile", {"email":email,"country":country});
- 
-// link
-DatabaseUser.update(databaseId, userLoginInfo._id,{"to_userProfile":{"collName":"UserProfile", "_id":userProfileInfo._id}},userLoginInfo.sessionToken);
- 
-var user = {"username":username,"email":email,"country":country};
- 
-response.success(user, "application/json");
-
 
 ## Features
 ```
